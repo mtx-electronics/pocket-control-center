@@ -1,2 +1,4 @@
 # pocket-control-center
-Pocket Control Center software per la gestione delle centraline aggiuntive
+Software per la gestione delle centraline aggiuntive.
+
+Questo archivio contiene i file sorgenti in C# per compilare il software per la gestione delle centraline aggiuntive.
